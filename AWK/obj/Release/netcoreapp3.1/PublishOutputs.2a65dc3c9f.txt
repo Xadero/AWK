@@ -1,0 +1,7 @@
+G:\Projekty\AWK\AWK\bin\publish\Sounds\beep.wav
+G:\Projekty\AWK\AWK\bin\publish\AWK.exe
+G:\Projekty\AWK\AWK\bin\publish\AWK.dll
+G:\Projekty\AWK\AWK\bin\publish\AWK.deps.json
+G:\Projekty\AWK\AWK\bin\publish\AWK.runtimeconfig.json
+G:\Projekty\AWK\AWK\bin\publish\AWK.pdb
+G:\Projekty\AWK\AWK\bin\publish\NAudio.dll
